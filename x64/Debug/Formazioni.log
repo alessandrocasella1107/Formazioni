@@ -1,0 +1,4 @@
+﻿  Formazioni.cpp
+C:\Users\catan\Downloads\Formazioni\FormazioniBuilder.h(39): warning C4715: 'FormazioniBuilder::FormBuilder': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\catan\Downloads\Formazioni\FormazioniBuilder.h(28): warning C4715: 'FormazioniBuilder::NameBuilder': non tutti i percorsi di controllo restituiscono un valore
+  Formazioni.vcxproj -> C:\Users\catan\Downloads\Formazioni\x64\Debug\Formazioni.exe
